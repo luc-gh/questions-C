@@ -1,2 +1,2 @@
-# matrizes-C
+# questions-C
 Exercícios na linguagem C.
